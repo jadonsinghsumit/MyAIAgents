@@ -1,6 +1,6 @@
 SUMIT SINGH JADAUN
 Go / Python Lead Engineer | Cloud-Native Services & Infrastructure Automation
-+91 8073420319 | sumitsinghjadaun@gmail.com | Bangalore, India | Open to roles across India
++91 8073420319 | sumitsinghjadaun@gmail.com | Bangalore, India | Open to roles across India | linkedin.com/in/sumit-singh-jadaun-06a14b23
 
 PROFESSIONAL SUMMARY
 Software engineering professional with 13+ years of experience spanning backend services, Python automation, and converged/hyperconverged infrastructure. Principal Software Engineer experience at Dell Technologies, with contributions to microservice architecture, API design, event-driven integration, and leadership of a six-engineer Python development team. Hands-on work with Go microservices, Kubernetes, Temporal, Kafka, REST APIs, and gRPC.
