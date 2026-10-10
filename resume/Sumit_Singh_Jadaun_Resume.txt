@@ -10,14 +10,14 @@ Languages: Go (Golang), Python | Backend: Microservices, REST APIs, gRPC, Protoc
 
 PROFESSIONAL EXPERIENCE
 Dell Technologies | Principal / Senior Software Engineer | Oct 2019–May 2026
-Led six engineers developing the Atlas Python automation framework; implemented logging and reporting enhancements and completed Python 3.6-to-3.10 and plugin migration.
-Built Go services using the Temporal Go SDK to start workflows and handle pause, resume, and cancellation signals; implemented REST interfaces, OpenAPI generation, and gRPC health checks.
-Developed authorization APIs and audit-logging middleware with Protocol Buffers and Kafka producers using SASL authentication; implemented retry handling for Kafka and Vault connectivity.
 Designed REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters.
-Contributed to microservice architecture discussions and evaluated Kafka client libraries through proofs of concept; developed producers and consumers for audit-event and service integration use cases.
-Proposed approaches for a monitor-aggregator microservice and centralized shared component-health and pod-status logic in reusable Python framework classes.
-Guided technical design discussions, decomposed features into epics and stories, and coordinated with cross-functional teams to resolve engineering dependencies.
 Contributed more than 60% of the cloud-interface microservice code for the On-Prem Cloud Controller; implemented REST APIs and developed Ansible playbooks and Python modules for infrastructure automation.
+Built Go services using the Temporal Go SDK to start workflows and handle pause, resume, and cancellation signals; implemented REST interfaces, OpenAPI generation, and gRPC health checks.
+Contributed to microservice architecture discussions and evaluated Kafka client libraries through proofs of concept; developed producers and consumers for audit-event and service integration use cases.
+Developed authorization APIs and audit-logging middleware with Protocol Buffers and Kafka producers using SASL authentication; implemented retry handling for Kafka and Vault connectivity.
+Guided technical design discussions, decomposed features into epics and stories, and coordinated with cross-functional teams to resolve engineering dependencies.
+Proposed approaches for a monitor-aggregator microservice and centralized shared component-health and pod-status logic in reusable Python framework classes.
+Led six engineers developing the Atlas Python automation framework; implemented logging and reporting enhancements and completed Python 3.6-to-3.10 and plugin migration.
 HCL Technologies | Technical Lead / Senior Software Engineer | May 2015–Oct 2019
 Riverbed client: Led 3–4 engineers developing Python automation for SteelFusion infrastructure; diagnosed automation-code issues across VMware, storage, and networking environments.
 Alcatel-Lucent client: Developed Python scripts for RF and modem-board automation, firmware initialization, and result analysis.
