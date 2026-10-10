@@ -1,0 +1,26 @@
+SUMIT SINGH JADAUN
+Go / Python Lead Engineer | Cloud-Native Services & Infrastructure Automation
++91 8073420319 | sumitsinghjadaun@gmail.com | Bangalore, India | Open to roles across India
+
+PROFESSIONAL SUMMARY
+Software engineering professional with 13+ years of experience spanning backend services, Python automation, and converged/hyperconverged infrastructure. Principal Software Engineer experience at Dell Technologies, with contributions to microservice design and leadership of a six-engineer Python development team. Hands-on work with Go microservices, Kubernetes, Temporal, Kafka, REST APIs, and gRPC.
+
+TECHNICAL SKILLS
+Languages: Go (Golang), Python | Backend: Microservices, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authorization, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking
+
+PROFESSIONAL EXPERIENCE
+Dell Technologies | Principal / Senior Software Engineer | Oct 2019–May 2026
+Led six engineers developing the Atlas Python automation framework; implemented logging and reporting enhancements and completed Python 3.6-to-3.10 and plugin migration.
+Built Go services using the Temporal Go SDK to start workflows and handle pause, resume, and cancellation signals; implemented REST interfaces, OpenAPI generation, and gRPC health checks.
+Developed authorization APIs and audit-logging middleware with Protocol Buffers and Kafka producers using SASL authentication; implemented retry handling for Kafka and Vault connectivity.
+Created Helm charts for Kubernetes deployments across development, staging, and production environments, including services, configuration, secrets, and service accounts.
+Contributed more than 60% of the cloud-interface microservice code for the On-Prem Cloud Controller; implemented REST APIs and developed Ansible playbooks and Python modules for infrastructure automation.
+HCL Technologies | Technical Lead / Senior Software Engineer | May 2015–Oct 2019
+Riverbed client: Led 3–4 engineers developing Python automation for SteelFusion infrastructure; diagnosed automation-code issues across VMware, storage, and networking environments.
+Alcatel-Lucent client: Developed Python scripts for RF and modem-board automation, firmware initialization, and result analysis.
+Powerwave Technologies R&D India | Engineer II – Software | Jul 2010–May 2013
+Developed Python scripts for radio-hardware interface data analysis and automated workflows using LabVIEW.
+
+EDUCATION
+M.Tech, Artificial Intelligence and Machine Learning | IIT Madras | Pursuing
+B.Tech, Electronics & Communication Engineering | NIT Patna | 2010 | CGPA: 8.73/10
