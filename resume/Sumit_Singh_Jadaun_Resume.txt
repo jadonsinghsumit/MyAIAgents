@@ -6,7 +6,7 @@ PROFESSIONAL SUMMARY
 Software engineering professional with 13+ years of experience spanning backend services, Python automation, and converged/hyperconverged infrastructure. Principal Software Engineer experience at Dell Technologies, with contributions to microservice architecture, API design, event-driven integration, and leadership of a Python development team of 8–10 engineers. Hands-on work with Go microservices, Kubernetes, Temporal, Kafka, REST APIs, and gRPC.
 
 TECHNICAL SKILLS
-Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authorization, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking
+Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking
 
 PROFESSIONAL EXPERIENCE
 Dell Technologies | Principal / Senior Software Engineer | Oct 2019–May 2026
@@ -15,7 +15,7 @@ Contributed to the architecture, design, and development of Python microservices
 Contributed more than 60% of the cloud-interface microservice code for the On-Prem Cloud Controller; implemented REST APIs and developed Ansible playbooks and Python modules for infrastructure automation.
 Built Go services using the Temporal Go SDK to start workflows and handle pause, resume, and cancellation signals; implemented REST interfaces, OpenAPI generation, and gRPC health checks.
 Contributed to microservice architecture discussions and evaluated Kafka client libraries through proofs of concept; developed producers and consumers for audit-event and service integration use cases.
-Developed authorization APIs and audit-logging middleware with Protocol Buffers and Kafka producers using SASL authentication; implemented retry handling for Kafka and Vault connectivity.
+Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity.
 Guided technical design discussions, decomposed features into epics and stories, and coordinated with cross-functional teams to resolve engineering dependencies.
 Proposed approaches for a monitor-aggregator microservice and centralized shared component-health and pod-status logic in reusable Python framework classes.
 Led 8–10 engineers developing the Atlas Python automation framework; implemented logging and reporting enhancements and completed Python 3.6-to-3.14 and plugin migration.
