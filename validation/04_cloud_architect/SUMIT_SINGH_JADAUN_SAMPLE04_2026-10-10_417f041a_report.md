@@ -1,0 +1,63 @@
+# Resume match report
+
+Internal evidence-based keyword match — NOT a vendor ATS score
+
+Before: 41.7% | After: 41.7% | PDF pages: 1
+Status: needs_review_or_missing_evidence
+
+100 × covered requirement weights / all detected requirement weights. Required=3, general=2, preferred=1. No credit for unsupported skills. >90 requires at least five detected skills and no unresolved requirement lines.
+
+## Requirement evidence
+
+- **AWS** (weight 3): missing or not retained
+  - JD: Golang, Python, Kubernetes, AWS, Terraform, PostgreSQL, Redis, Prometheus, Grafana, observability, architecture.
+- **Observability** (weight 3): missing or not retained
+  - JD: Golang, Python, Kubernetes, AWS, Terraform, PostgreSQL, Redis, Prometheus, Grafana, observability, architecture.
+- **Grafana** (weight 3): missing or not retained
+  - JD: Golang, Python, Kubernetes, AWS, Terraform, PostgreSQL, Redis, Prometheus, Grafana, observability, architecture.
+- **System design** (weight 3): covered
+  - JD: Golang, Python, Kubernetes, AWS, Terraform, PostgreSQL, Redis, Prometheus, Grafana, observability, architecture.
+  - Resume: experience[0].bullets[1]: Contributed to the architecture, design, and development of Python microservices using FastAPI and Pydantic for API implementation and data-model validation.
+  - Resume: experience[0].bullets[4]: Contributed to microservice architecture discussions and evaluated Kafka client libraries through proofs of concept; developed producers and consumers for audit-event and service integration use cases.
+- **Kubernetes** (weight 3): covered
+  - JD: Golang, Python, Kubernetes, AWS, Terraform, PostgreSQL, Redis, Prometheus, Grafana, observability, architecture.
+  - Resume: skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking
+  - Resume: experience[0].bullets[0]: Designed REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters.
+- **Go** (weight 3): covered
+  - JD: Golang, Python, Kubernetes, AWS, Terraform, PostgreSQL, Redis, Prometheus, Grafana, observability, architecture.
+  - Resume: skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking
+  - Resume: experience[0].bullets[0]: Designed REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters.
+- **Prometheus** (weight 3): missing or not retained
+  - JD: Golang, Python, Kubernetes, AWS, Terraform, PostgreSQL, Redis, Prometheus, Grafana, observability, architecture.
+- **Terraform** (weight 3): missing or not retained
+  - JD: Golang, Python, Kubernetes, AWS, Terraform, PostgreSQL, Redis, Prometheus, Grafana, observability, architecture.
+- **Python** (weight 3): covered
+  - JD: Golang, Python, Kubernetes, AWS, Terraform, PostgreSQL, Redis, Prometheus, Grafana, observability, architecture.
+  - Resume: skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking
+  - Resume: experience[0].bullets[1]: Contributed to the architecture, design, and development of Python microservices using FastAPI and Pydantic for API implementation and data-model validation.
+- **Redis** (weight 3): missing or not retained
+  - JD: Golang, Python, Kubernetes, AWS, Terraform, PostgreSQL, Redis, Prometheus, Grafana, observability, architecture.
+- **PostgreSQL** (weight 3): missing or not retained
+  - JD: Golang, Python, Kubernetes, AWS, Terraform, PostgreSQL, Redis, Prometheus, Grafana, observability, architecture.
+- **Helm** (weight 1): covered
+  - JD: Helm, Kafka, Ansible.
+  - Resume: skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking
+  - Resume: experience[0].bullets[0]: Designed REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters.
+- **Ansible** (weight 1): covered
+  - JD: Helm, Kafka, Ansible.
+  - Resume: skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking
+  - Resume: experience[0].bullets[2]: Contributed more than 60% of the cloud-interface microservice code for the On-Prem Cloud Controller; implemented REST APIs and developed Ansible playbooks and Python modules for infrastructure automation.
+- **Kafka** (weight 1): covered
+  - JD: Helm, Kafka, Ansible.
+  - Resume: skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking
+  - Resume: experience[0].bullets[4]: Contributed to microservice architecture discussions and evaluated Kafka client libraries through proofs of concept; developed producers and consumers for audit-event and service integration use cases.
+
+## Human review required
+
+## Limits
+- Finite skill vocabulary; not an exhaustive semantic assessment.
+- Years, location, work authorization, credentials, scope and compound requirements need human review.
+- A high score does not predict interviews or acceptance.
+- The matcher does not obtain scores from employer ATS systems or promise a 90% vendor score.
+- Unrecognized requirements must be reviewed against the complete JD before applying.
+- A photo is optional; default exports omit it. Source files and the master resume are not overwritten.

@@ -1,0 +1,8 @@
+SAMPLE ONLY — Lead Go Backend Developer (not a live opening)
+Develop cloud-native services for infrastructure automation and collaborate on technical design.
+Required skills:
+Golang, REST APIs, gRPC, Protocol Buffers, Kubernetes, Helm, Docker, Kafka, Linux, Git, microservices.
+Responsibilities:
+Contribute to architecture discussions, implement API contracts, and manage event-driven service communication.
+Preferred skills:
+Temporal, OpenAPI, Ansible.

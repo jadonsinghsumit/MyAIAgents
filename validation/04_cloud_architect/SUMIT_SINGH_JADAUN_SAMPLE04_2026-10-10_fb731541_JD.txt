@@ -1,0 +1,8 @@
+SAMPLE ONLY — AWS Infrastructure Architect (not a live opening)
+Design cloud infrastructure and service deployment for a product team.
+Required skills:
+Golang, Python, Kubernetes, AWS, Terraform, PostgreSQL, Redis, Prometheus, Grafana, observability, architecture.
+Responsibilities:
+Design service interfaces and document deployment choices.
+Preferred skills:
+Helm, Kafka, Ansible.

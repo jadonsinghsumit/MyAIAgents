@@ -1,0 +1,105 @@
+[
+  {
+    "company": "SAMPLE01",
+    "case": "01_go_backend",
+    "kind": "synthetic sample",
+    "before": 100.0,
+    "after": 100.0,
+    "pages": 1,
+    "target_exceeded": true,
+    "missing": [],
+    "files": {
+      "pdf": "validation/01_go_backend/SUMIT_SINGH_JADAUN_SAMPLE01_2026-10-10_69f8ec16.pdf",
+      "docx": "validation/01_go_backend/SUMIT_SINGH_JADAUN_SAMPLE01_2026-10-10_69f8ec16.docx",
+      "report": "validation/01_go_backend/SUMIT_SINGH_JADAUN_SAMPLE01_2026-10-10_69f8ec16_report.json",
+      "review": "validation/01_go_backend/SUMIT_SINGH_JADAUN_SAMPLE01_2026-10-10_69f8ec16_report.md",
+      "text": "validation/01_go_backend/SUMIT_SINGH_JADAUN_SAMPLE01_2026-10-10_69f8ec16.txt",
+      "jd": "validation/01_go_backend/SUMIT_SINGH_JADAUN_SAMPLE01_2026-10-10_69f8ec16_JD.txt"
+    }
+  },
+  {
+    "company": "SAMPLE02",
+    "case": "02_python_backend",
+    "kind": "synthetic sample",
+    "before": 100.0,
+    "after": 100.0,
+    "pages": 1,
+    "target_exceeded": true,
+    "missing": [],
+    "files": {
+      "pdf": "validation/02_python_backend/SUMIT_SINGH_JADAUN_SAMPLE02_2026-10-10_2e70c25d.pdf",
+      "docx": "validation/02_python_backend/SUMIT_SINGH_JADAUN_SAMPLE02_2026-10-10_2e70c25d.docx",
+      "report": "validation/02_python_backend/SUMIT_SINGH_JADAUN_SAMPLE02_2026-10-10_2e70c25d_report.json",
+      "review": "validation/02_python_backend/SUMIT_SINGH_JADAUN_SAMPLE02_2026-10-10_2e70c25d_report.md",
+      "text": "validation/02_python_backend/SUMIT_SINGH_JADAUN_SAMPLE02_2026-10-10_2e70c25d.txt",
+      "jd": "validation/02_python_backend/SUMIT_SINGH_JADAUN_SAMPLE02_2026-10-10_2e70c25d_JD.txt"
+    }
+  },
+  {
+    "company": "SAMPLE03",
+    "case": "03_workflow_security",
+    "kind": "synthetic sample",
+    "before": 100.0,
+    "after": 100.0,
+    "pages": 1,
+    "target_exceeded": true,
+    "missing": [],
+    "files": {
+      "pdf": "validation/03_workflow_security/SUMIT_SINGH_JADAUN_SAMPLE03_2026-10-10_b502a6d5.pdf",
+      "docx": "validation/03_workflow_security/SUMIT_SINGH_JADAUN_SAMPLE03_2026-10-10_b502a6d5.docx",
+      "report": "validation/03_workflow_security/SUMIT_SINGH_JADAUN_SAMPLE03_2026-10-10_b502a6d5_report.json",
+      "review": "validation/03_workflow_security/SUMIT_SINGH_JADAUN_SAMPLE03_2026-10-10_b502a6d5_report.md",
+      "text": "validation/03_workflow_security/SUMIT_SINGH_JADAUN_SAMPLE03_2026-10-10_b502a6d5.txt",
+      "jd": "validation/03_workflow_security/SUMIT_SINGH_JADAUN_SAMPLE03_2026-10-10_b502a6d5_JD.txt"
+    }
+  },
+  {
+    "company": "SAMPLE04",
+    "case": "04_cloud_architect",
+    "kind": "synthetic sample",
+    "before": 41.7,
+    "after": 41.7,
+    "pages": 1,
+    "target_exceeded": false,
+    "missing": [
+      "AWS",
+      "Terraform",
+      "PostgreSQL",
+      "Prometheus",
+      "Observability",
+      "Grafana",
+      "Redis"
+    ],
+    "files": {
+      "pdf": "validation/04_cloud_architect/SUMIT_SINGH_JADAUN_SAMPLE04_2026-10-10_fb731541.pdf",
+      "docx": "validation/04_cloud_architect/SUMIT_SINGH_JADAUN_SAMPLE04_2026-10-10_fb731541.docx",
+      "report": "validation/04_cloud_architect/SUMIT_SINGH_JADAUN_SAMPLE04_2026-10-10_fb731541_report.json",
+      "review": "validation/04_cloud_architect/SUMIT_SINGH_JADAUN_SAMPLE04_2026-10-10_fb731541_report.md",
+      "text": "validation/04_cloud_architect/SUMIT_SINGH_JADAUN_SAMPLE04_2026-10-10_fb731541.txt",
+      "jd": "validation/04_cloud_architect/SUMIT_SINGH_JADAUN_SAMPLE04_2026-10-10_fb731541_JD.txt"
+    }
+  },
+  {
+    "company": "SAMPLE05",
+    "case": "05_controller_developer",
+    "kind": "synthetic sample",
+    "before": 55.6,
+    "after": 55.6,
+    "pages": 1,
+    "target_exceeded": false,
+    "missing": [
+      "Kubernetes controllers",
+      "CRDs",
+      "GCP",
+      "Kubernetes operators"
+    ],
+    "files": {
+      "pdf": "validation/05_controller_developer/SUMIT_SINGH_JADAUN_SAMPLE05_2026-10-10_4ec6195b.pdf",
+      "docx": "validation/05_controller_developer/SUMIT_SINGH_JADAUN_SAMPLE05_2026-10-10_4ec6195b.docx",
+      "report": "validation/05_controller_developer/SUMIT_SINGH_JADAUN_SAMPLE05_2026-10-10_4ec6195b_report.json",
+      "review": "validation/05_controller_developer/SUMIT_SINGH_JADAUN_SAMPLE05_2026-10-10_4ec6195b_report.md",
+      "text": "validation/05_controller_developer/SUMIT_SINGH_JADAUN_SAMPLE05_2026-10-10_4ec6195b.txt",
+      "jd": "validation/05_controller_developer/SUMIT_SINGH_JADAUN_SAMPLE05_2026-10-10_4ec6195b_JD.txt"
+    }
+  }
+]

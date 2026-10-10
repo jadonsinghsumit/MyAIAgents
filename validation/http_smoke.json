@@ -1,0 +1,12 @@
+{
+  "homepage_status": 200,
+  "analysis_status": 200,
+  "internal_score": 100.0,
+  "pdf_pages": 1,
+  "downloads_verified": [
+    "PDF",
+    "Word",
+    "report"
+  ],
+  "kind": "local functional smoke test with synthetic JD"
+}

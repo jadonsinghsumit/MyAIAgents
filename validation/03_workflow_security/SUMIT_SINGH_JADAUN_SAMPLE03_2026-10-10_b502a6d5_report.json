@@ -1,0 +1,547 @@
+{
+  "company_short_name": "SAMPLE03",
+  "prepared_date": "2026-10-10",
+  "date_timezone": "Asia/Kolkata",
+  "files": {
+    "pdf": "SUMIT_SINGH_JADAUN_SAMPLE03_2026-10-10_b502a6d5.pdf",
+    "docx": "SUMIT_SINGH_JADAUN_SAMPLE03_2026-10-10_b502a6d5.docx",
+    "report": "SUMIT_SINGH_JADAUN_SAMPLE03_2026-10-10_b502a6d5_report.json",
+    "review": "SUMIT_SINGH_JADAUN_SAMPLE03_2026-10-10_b502a6d5_report.md",
+    "text": "SUMIT_SINGH_JADAUN_SAMPLE03_2026-10-10_b502a6d5.txt",
+    "jd": "SUMIT_SINGH_JADAUN_SAMPLE03_2026-10-10_b502a6d5_JD.txt"
+  },
+  "source": "synthetic sample; captured 2026-10-10",
+  "before": {
+    "label": "Internal evidence-based keyword match — NOT a vendor ATS score",
+    "score": 100.0,
+    "target_exceeded": true,
+    "requirements": [
+      {
+        "skill": "Kubernetes",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[0]: Designed REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters."
+        ]
+      },
+      {
+        "skill": "Kafka",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[4]: Contributed to microservice architecture discussions and evaluated Kafka client libraries through proofs of concept; developed producers and consumers for audit-event and service integration use cases.",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "JWT",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "gRPC",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[0]: Designed REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters.",
+          "experience[0].bullets[3]: Built Go services using the Temporal Go SDK to start workflows and handle pause, resume, and cancellation signals; implemented REST interfaces, OpenAPI generation, and gRPC health checks."
+        ]
+      },
+      {
+        "skill": "Vault",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "OAuth 2.0",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "RBAC",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "mTLS",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "OpenID Connect",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "Helm",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[0]: Designed REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters."
+        ]
+      },
+      {
+        "skill": "Temporal",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[3]: Built Go services using the Temporal Go SDK to start workflows and handle pause, resume, and cancellation signals; implemented REST interfaces, OpenAPI generation, and gRPC health checks."
+        ]
+      },
+      {
+        "skill": "Go",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[0]: Designed REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters.",
+          "experience[0].bullets[3]: Built Go services using the Temporal Go SDK to start workflows and handle pause, resume, and cancellation signals; implemented REST interfaces, OpenAPI generation, and gRPC health checks."
+        ]
+      },
+      {
+        "skill": "Authentication",
+        "weight": 2,
+        "jd_evidence": "Develop workflow services and implement authentication and authorization boundaries.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "Authorization",
+        "weight": 2,
+        "jd_evidence": "Develop workflow services and implement authentication and authorization boundaries.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "SASL",
+        "weight": 1,
+        "jd_evidence": "Python, Ansible, SASL.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "Ansible",
+        "weight": 1,
+        "jd_evidence": "Python, Ansible, SASL.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[2]: Contributed more than 60% of the cloud-interface microservice code for the On-Prem Cloud Controller; implemented REST APIs and developed Ansible playbooks and Python modules for infrastructure automation."
+        ]
+      },
+      {
+        "skill": "Python",
+        "weight": 1,
+        "jd_evidence": "Python, Ansible, SASL.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[1]: Contributed to the architecture, design, and development of Python microservices using FastAPI and Pydantic for API implementation and data-model validation.",
+          "experience[0].bullets[2]: Contributed more than 60% of the cloud-interface microservice code for the On-Prem Cloud Controller; implemented REST APIs and developed Ansible playbooks and Python modules for infrastructure automation.",
+          "experience[0].bullets[7]: Proposed approaches for a monitor-aggregator microservice and centralized shared component-health and pod-status logic in reusable Python framework classes.",
+          "experience[0].bullets[8]: Led 8–10 engineers developing the Atlas Python automation framework; implemented logging and reporting enhancements and completed Python 3.6-to-3.14 and plugin migration.",
+          "experience[1].bullets[0]: Riverbed client: Led 3–4 engineers developing Python automation for SteelFusion infrastructure; diagnosed automation-code issues across VMware, storage, and networking environments.",
+          "experience[1].bullets[1]: Alcatel-Lucent client: Developed Python scripts for RF and modem-board automation, firmware initialization, and result analysis.",
+          "experience[2].bullets[0]: Developed Python scripts for radio-hardware interface data analysis and automated workflows using LabVIEW."
+        ]
+      }
+    ],
+    "manual_review_required": [],
+    "missing": [],
+    "scoring_formula": "100 × covered requirement weights / all detected requirement weights. Required=3, general=2, preferred=1. No credit for unsupported skills. >90 requires at least five detected skills and no unresolved requirement lines.",
+    "limits": [
+      "Finite skill vocabulary; not an exhaustive semantic assessment.",
+      "Years, location, work authorization, credentials, scope and compound requirements need human review.",
+      "A high score does not predict interviews or acceptance."
+    ]
+  },
+  "after": {
+    "label": "Internal evidence-based keyword match — NOT a vendor ATS score",
+    "score": 100.0,
+    "target_exceeded": true,
+    "requirements": [
+      {
+        "skill": "Kubernetes",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[0]: Designed REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters."
+        ]
+      },
+      {
+        "skill": "Kafka",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[4]: Contributed to microservice architecture discussions and evaluated Kafka client libraries through proofs of concept; developed producers and consumers for audit-event and service integration use cases.",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "JWT",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "gRPC",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[0]: Designed REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters.",
+          "experience[0].bullets[3]: Built Go services using the Temporal Go SDK to start workflows and handle pause, resume, and cancellation signals; implemented REST interfaces, OpenAPI generation, and gRPC health checks."
+        ]
+      },
+      {
+        "skill": "Vault",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "OAuth 2.0",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "RBAC",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "mTLS",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "OpenID Connect",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "Helm",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[0]: Designed REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters."
+        ]
+      },
+      {
+        "skill": "Temporal",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[3]: Built Go services using the Temporal Go SDK to start workflows and handle pause, resume, and cancellation signals; implemented REST interfaces, OpenAPI generation, and gRPC health checks."
+        ]
+      },
+      {
+        "skill": "Go",
+        "weight": 3,
+        "jd_evidence": "Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[0]: Designed REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters.",
+          "experience[0].bullets[3]: Built Go services using the Temporal Go SDK to start workflows and handle pause, resume, and cancellation signals; implemented REST interfaces, OpenAPI generation, and gRPC health checks."
+        ]
+      },
+      {
+        "skill": "Authentication",
+        "weight": 2,
+        "jd_evidence": "Develop workflow services and implement authentication and authorization boundaries.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "Authorization",
+        "weight": 2,
+        "jd_evidence": "Develop workflow services and implement authentication and authorization boundaries.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "SASL",
+        "weight": 1,
+        "jd_evidence": "Python, Ansible, SASL.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[5]: Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity."
+        ]
+      },
+      {
+        "skill": "Ansible",
+        "weight": 1,
+        "jd_evidence": "Python, Ansible, SASL.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[2]: Contributed more than 60% of the cloud-interface microservice code for the On-Prem Cloud Controller; implemented REST APIs and developed Ansible playbooks and Python modules for infrastructure automation."
+        ]
+      },
+      {
+        "skill": "Python",
+        "weight": 1,
+        "jd_evidence": "Python, Ansible, SASL.",
+        "supported": true,
+        "covered": true,
+        "resume_evidence": [
+          "skills[0]: Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking",
+          "experience[0].bullets[1]: Contributed to the architecture, design, and development of Python microservices using FastAPI and Pydantic for API implementation and data-model validation.",
+          "experience[0].bullets[2]: Contributed more than 60% of the cloud-interface microservice code for the On-Prem Cloud Controller; implemented REST APIs and developed Ansible playbooks and Python modules for infrastructure automation.",
+          "experience[0].bullets[7]: Proposed approaches for a monitor-aggregator microservice and centralized shared component-health and pod-status logic in reusable Python framework classes.",
+          "experience[0].bullets[8]: Led 8–10 engineers developing the Atlas Python automation framework; implemented logging and reporting enhancements and completed Python 3.6-to-3.14 and plugin migration.",
+          "experience[1].bullets[0]: Riverbed client: Led 3–4 engineers developing Python automation for SteelFusion infrastructure; diagnosed automation-code issues across VMware, storage, and networking environments.",
+          "experience[1].bullets[1]: Alcatel-Lucent client: Developed Python scripts for RF and modem-board automation, firmware initialization, and result analysis.",
+          "experience[2].bullets[0]: Developed Python scripts for radio-hardware interface data analysis and automated workflows using LabVIEW."
+        ]
+      }
+    ],
+    "manual_review_required": [],
+    "missing": [],
+    "scoring_formula": "100 × covered requirement weights / all detected requirement weights. Required=3, general=2, preferred=1. No credit for unsupported skills. >90 requires at least five detected skills and no unresolved requirement lines.",
+    "limits": [
+      "Finite skill vocabulary; not an exhaustive semantic assessment.",
+      "Years, location, work authorization, credentials, scope and compound requirements need human review.",
+      "A high score does not predict interviews or acceptance."
+    ]
+  },
+  "iterations": [
+    {
+      "iteration": 0,
+      "pages": 1,
+      "score": 100.0,
+      "target_exceeded": true
+    }
+  ],
+  "pages": 1,
+  "status": "internal_target_exceeded",
+  "changes": [
+    "Reordered existing bullets by detected JD relevance.",
+    "Prioritized supported skill names; no new employer claims added."
+  ],
+  "removed_bullets": [],
+  "source_profile": {
+    "name": "SUMIT SINGH JADAUN",
+    "headline": "Golang/Python Lead Developer | Cloud Native Services and Infrastructure Architect",
+    "contacts": [
+      "Phone: +91 8073420319",
+      "Email: sumitsinghjadaun@gmail.com",
+      "LinkedIn: linkedin.com/in/sumit-singh-jadaun-06a14b23",
+      "Bangalore, India | Open to roles across India"
+    ],
+    "summary": "Software engineering professional with 13+ years of experience spanning backend services in Golang and Python, infrastructure automation, and converged/hyperconverged infrastructure. Principal Software Engineer experience at Dell Technologies, with contributions to microservice architecture, API design, event-driven integration, and leadership of a Python development team of 8–10 engineers. Hands-on work with Go microservices, Kubernetes, Temporal, Kafka, REST APIs, and gRPC.",
+    "skills": [
+      "Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking"
+    ],
+    "experience": [
+      {
+        "heading": "Dell Technologies | Principal / Senior Software Engineer | Oct 2019–May 2026",
+        "bullets": [
+          "Designed REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters.",
+          "Contributed to the architecture, design, and development of Python microservices using FastAPI and Pydantic for API implementation and data-model validation.",
+          "Contributed more than 60% of the cloud-interface microservice code for the On-Prem Cloud Controller; implemented REST APIs and developed Ansible playbooks and Python modules for infrastructure automation.",
+          "Built Go services using the Temporal Go SDK to start workflows and handle pause, resume, and cancellation signals; implemented REST interfaces, OpenAPI generation, and gRPC health checks.",
+          "Contributed to microservice architecture discussions and evaluated Kafka client libraries through proofs of concept; developed producers and consumers for audit-event and service integration use cases.",
+          "Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity.",
+          "Guided technical design discussions, decomposed features into epics and stories, and coordinated with cross-functional teams to resolve engineering dependencies.",
+          "Proposed approaches for a monitor-aggregator microservice and centralized shared component-health and pod-status logic in reusable Python framework classes.",
+          "Led 8–10 engineers developing the Atlas Python automation framework; implemented logging and reporting enhancements and completed Python 3.6-to-3.14 and plugin migration."
+        ]
+      },
+      {
+        "heading": "HCL Technologies | Technical Lead / Senior Software Engineer | May 2015–Oct 2019",
+        "bullets": [
+          "Riverbed client: Led 3–4 engineers developing Python automation for SteelFusion infrastructure; diagnosed automation-code issues across VMware, storage, and networking environments.",
+          "Alcatel-Lucent client: Developed Python scripts for RF and modem-board automation, firmware initialization, and result analysis."
+        ]
+      },
+      {
+        "heading": "Powerwave Technologies R&D India | Engineer II – Software | Jul 2010–May 2013",
+        "bullets": [
+          "Developed Python scripts for radio-hardware interface data analysis and automated workflows using LabVIEW."
+        ]
+      }
+    ],
+    "education": [
+      "M.Tech, Artificial Intelligence and Machine Learning | IIT Madras | Pursuing",
+      "B.Tech, Electronics & Communication Engineering | NIT Patna | 2010 | CGPA: 8.73/10"
+    ],
+    "source_text": "SUMIT SINGH JADAUN\nGolang/Python Lead Developer | Cloud Native Services and Infrastructure Architect\n+91 8073420319 | sumitsinghjadaun@gmail.com | Bangalore, India | Open to roles across India | linkedin.com/in/sumit-singh-jadaun-06a14b23\n\nPROFESSIONAL SUMMARY\nSoftware engineering professional with 13+ years of experience spanning backend services in Golang and Python, infrastructure automation, and converged/hyperconverged infrastructure. Principal Software Engineer experience at Dell Technologies, with contributions to microservice architecture, API design, event-driven integration, and leadership of a Python development team of 8–10 engineers. Hands-on work with Go microservices, Kubernetes, Temporal, Kafka, REST APIs, and gRPC.\n\nTECHNICAL SKILLS\nLanguages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking\n\nPROFESSIONAL EXPERIENCE\nDell Technologies | Principal / Senior Software Engineer | Oct 2019–May 2026\nDesigned REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters.\nContributed to the architecture, design, and development of Python microservices using FastAPI and Pydantic for API implementation and data-model validation.\nContributed more than 60% of the cloud-interface microservice code for the On-Prem Cloud Controller; implemented REST APIs and developed Ansible playbooks and Python modules for infrastructure automation.\nBuilt Go services using the Temporal Go SDK to start workflows and handle pause, resume, and cancellation signals; implemented REST interfaces, OpenAPI generation, and gRPC health checks.\nContributed to microservice architecture discussions and evaluated Kafka client libraries through proofs of concept; developed producers and consumers for audit-event and service integration use cases.\nDeveloped authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity.\nGuided technical design discussions, decomposed features into epics and stories, and coordinated with cross-functional teams to resolve engineering dependencies.\nProposed approaches for a monitor-aggregator microservice and centralized shared component-health and pod-status logic in reusable Python framework classes.\nLed 8–10 engineers developing the Atlas Python automation framework; implemented logging and reporting enhancements and completed Python 3.6-to-3.14 and plugin migration.\nHCL Technologies | Technical Lead / Senior Software Engineer | May 2015–Oct 2019\nRiverbed client: Led 3–4 engineers developing Python automation for SteelFusion infrastructure; diagnosed automation-code issues across VMware, storage, and networking environments.\nAlcatel-Lucent client: Developed Python scripts for RF and modem-board automation, firmware initialization, and result analysis.\nPowerwave Technologies R&D India | Engineer II – Software | Jul 2010–May 2013\nDeveloped Python scripts for radio-hardware interface data analysis and automated workflows using LabVIEW.\n\nEDUCATION\nM.Tech, Artificial Intelligence and Machine Learning | IIT Madras | Pursuing\nB.Tech, Electronics & Communication Engineering | NIT Patna | 2010 | CGPA: 8.73/10"
+  },
+  "tailored_profile": {
+    "name": "SUMIT SINGH JADAUN",
+    "headline": "Golang/Python Lead Developer | Cloud Native Services and Infrastructure Architect",
+    "contacts": [
+      "Phone: +91 8073420319",
+      "Email: sumitsinghjadaun@gmail.com",
+      "LinkedIn: linkedin.com/in/sumit-singh-jadaun-06a14b23",
+      "Bangalore, India | Open to roles across India"
+    ],
+    "summary": "Software engineering professional with 13+ years of experience spanning backend services in Golang and Python, infrastructure automation, and converged/hyperconverged infrastructure. Principal Software Engineer experience at Dell Technologies, with contributions to microservice architecture, API design, event-driven integration, and leadership of a Python development team of 8–10 engineers. Hands-on work with Go microservices, Kubernetes, Temporal, Kafka, REST APIs, and gRPC.",
+    "skills": [
+      "Go, Helm, JWT, Kafka, Kubernetes, OAuth 2.0, OpenID Connect, RBAC, Temporal, Vault, gRPC, mTLS, Authentication, Authorization, Ansible, Python, SASL, Docker, FastAPI, Git, Leadership, Linux, Microservices, OpenAPI, Protocol Buffers, Pydantic, REST, System design, VMware"
+    ],
+    "experience": [
+      {
+        "heading": "Dell Technologies | Principal / Senior Software Engineer | Oct 2019–May 2026",
+        "bullets": [
+          "Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity.",
+          "Designed REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters.",
+          "Built Go services using the Temporal Go SDK to start workflows and handle pause, resume, and cancellation signals; implemented REST interfaces, OpenAPI generation, and gRPC health checks.",
+          "Contributed to microservice architecture discussions and evaluated Kafka client libraries through proofs of concept; developed producers and consumers for audit-event and service integration use cases.",
+          "Contributed more than 60% of the cloud-interface microservice code for the On-Prem Cloud Controller; implemented REST APIs and developed Ansible playbooks and Python modules for infrastructure automation.",
+          "Contributed to the architecture, design, and development of Python microservices using FastAPI and Pydantic for API implementation and data-model validation.",
+          "Proposed approaches for a monitor-aggregator microservice and centralized shared component-health and pod-status logic in reusable Python framework classes.",
+          "Guided technical design discussions, decomposed features into epics and stories, and coordinated with cross-functional teams to resolve engineering dependencies.",
+          "Led 8–10 engineers developing the Atlas Python automation framework; implemented logging and reporting enhancements and completed Python 3.6-to-3.14 and plugin migration."
+        ]
+      },
+      {
+        "heading": "HCL Technologies | Technical Lead / Senior Software Engineer | May 2015–Oct 2019",
+        "bullets": [
+          "Riverbed client: Led 3–4 engineers developing Python automation for SteelFusion infrastructure; diagnosed automation-code issues across VMware, storage, and networking environments.",
+          "Alcatel-Lucent client: Developed Python scripts for RF and modem-board automation, firmware initialization, and result analysis."
+        ]
+      },
+      {
+        "heading": "Powerwave Technologies R&D India | Engineer II – Software | Jul 2010–May 2013",
+        "bullets": [
+          "Developed Python scripts for radio-hardware interface data analysis and automated workflows using LabVIEW."
+        ]
+      }
+    ],
+    "education": [
+      "M.Tech, Artificial Intelligence and Machine Learning | IIT Madras | Pursuing",
+      "B.Tech, Electronics & Communication Engineering | NIT Patna | 2010 | CGPA: 8.73/10"
+    ],
+    "source_text": "SUMIT SINGH JADAUN\nGolang/Python Lead Developer | Cloud Native Services and Infrastructure Architect\n+91 8073420319 | sumitsinghjadaun@gmail.com | Bangalore, India | Open to roles across India | linkedin.com/in/sumit-singh-jadaun-06a14b23\n\nPROFESSIONAL SUMMARY\nSoftware engineering professional with 13+ years of experience spanning backend services in Golang and Python, infrastructure automation, and converged/hyperconverged infrastructure. Principal Software Engineer experience at Dell Technologies, with contributions to microservice architecture, API design, event-driven integration, and leadership of a Python development team of 8–10 engineers. Hands-on work with Go microservices, Kubernetes, Temporal, Kafka, REST APIs, and gRPC.\n\nTECHNICAL SKILLS\nLanguages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking\n\nPROFESSIONAL EXPERIENCE\nDell Technologies | Principal / Senior Software Engineer | Oct 2019–May 2026\nDesigned REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters.\nContributed to the architecture, design, and development of Python microservices using FastAPI and Pydantic for API implementation and data-model validation.\nContributed more than 60% of the cloud-interface microservice code for the On-Prem Cloud Controller; implemented REST APIs and developed Ansible playbooks and Python modules for infrastructure automation.\nBuilt Go services using the Temporal Go SDK to start workflows and handle pause, resume, and cancellation signals; implemented REST interfaces, OpenAPI generation, and gRPC health checks.\nContributed to microservice architecture discussions and evaluated Kafka client libraries through proofs of concept; developed producers and consumers for audit-event and service integration use cases.\nDeveloped authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity.\nGuided technical design discussions, decomposed features into epics and stories, and coordinated with cross-functional teams to resolve engineering dependencies.\nProposed approaches for a monitor-aggregator microservice and centralized shared component-health and pod-status logic in reusable Python framework classes.\nLed 8–10 engineers developing the Atlas Python automation framework; implemented logging and reporting enhancements and completed Python 3.6-to-3.14 and plugin migration.\nHCL Technologies | Technical Lead / Senior Software Engineer | May 2015–Oct 2019\nRiverbed client: Led 3–4 engineers developing Python automation for SteelFusion infrastructure; diagnosed automation-code issues across VMware, storage, and networking environments.\nAlcatel-Lucent client: Developed Python scripts for RF and modem-board automation, firmware initialization, and result analysis.\nPowerwave Technologies R&D India | Engineer II – Software | Jul 2010–May 2013\nDeveloped Python scripts for radio-hardware interface data analysis and automated workflows using LabVIEW.\n\nEDUCATION\nM.Tech, Artificial Intelligence and Machine Learning | IIT Madras | Pursuing\nB.Tech, Electronics & Communication Engineering | NIT Patna | 2010 | CGPA: 8.73/10"
+  }
+}

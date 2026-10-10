@@ -1,0 +1,29 @@
+SUMIT SINGH JADAUN
+Golang/Python Lead Developer | Cloud Native Services and Infrastructure Architect
+Phone: +91 8073420319
+Email: sumitsinghjadaun@gmail.com
+LinkedIn: linkedin.com/in/sumit-singh-jadaun-06a14b23
+Bangalore, India | Open to roles across India
+PROFESSIONAL SUMMARY
+Software engineering professional with 13+ years of experience spanning backend services in Golang and Python, infrastructure automation, and converged/hyperconverged infrastructure. Principal Software Engineer experience at Dell Technologies, with contributions to microservice architecture, API design, event-driven integration, and leadership of a Python development team of 8–10 engineers. Hands-on work with Go microservices, Kubernetes, Temporal, Kafka, REST APIs, and gRPC.
+TECHNICAL SKILLS
+Docker, FastAPI, Git, Kubernetes, Microservices, Pydantic, Python, REST, System design, Kafka, Linux, OpenAPI, Ansible, Authentication, Authorization, Go, Helm, JWT, Leadership, OAuth 2.0, OpenID Connect, Protocol Buffers, RBAC, SASL, Temporal, VMware, Vault, gRPC, mTLS
+PROFESSIONAL EXPERIENCE
+Dell Technologies | Principal / Senior Software Engineer | Oct 2019–May 2026
+Contributed to the architecture, design, and development of Python microservices using FastAPI and Pydantic for API implementation and data-model validation.
+Designed REST/gRPC interfaces and Protocol Buffer contracts for Go microservices; created Helm charts defining deployments, services, ConfigMaps, Secrets, and service accounts for Kubernetes clusters.
+Contributed more than 60% of the cloud-interface microservice code for the On-Prem Cloud Controller; implemented REST APIs and developed Ansible playbooks and Python modules for infrastructure automation.
+Contributed to microservice architecture discussions and evaluated Kafka client libraries through proofs of concept; developed producers and consumers for audit-event and service integration use cases.
+Proposed approaches for a monitor-aggregator microservice and centralized shared component-health and pod-status logic in reusable Python framework classes.
+Built Go services using the Temporal Go SDK to start workflows and handle pause, resume, and cancellation signals; implemented REST interfaces, OpenAPI generation, and gRPC health checks.
+Developed authentication (OpenID Connect, mTLS, JWT/bearer-token validation) and authorization (OAuth 2.0, RBAC) APIs; implemented Kafka audit logging with SASL authentication and retry handling for Kafka/Vault connectivity.
+Guided technical design discussions, decomposed features into epics and stories, and coordinated with cross-functional teams to resolve engineering dependencies.
+Led 8–10 engineers developing the Atlas Python automation framework; implemented logging and reporting enhancements and completed Python 3.6-to-3.14 and plugin migration.
+HCL Technologies | Technical Lead / Senior Software Engineer | May 2015–Oct 2019
+Riverbed client: Led 3–4 engineers developing Python automation for SteelFusion infrastructure; diagnosed automation-code issues across VMware, storage, and networking environments.
+Alcatel-Lucent client: Developed Python scripts for RF and modem-board automation, firmware initialization, and result analysis.
+Powerwave Technologies R&D India | Engineer II – Software | Jul 2010–May 2013
+Developed Python scripts for radio-hardware interface data analysis and automated workflows using LabVIEW.
+EDUCATION
+M.Tech, Artificial Intelligence and Machine Learning | IIT Madras | Pursuing
+B.Tech, Electronics & Communication Engineering | NIT Patna | 2010 | CGPA: 8.73/10

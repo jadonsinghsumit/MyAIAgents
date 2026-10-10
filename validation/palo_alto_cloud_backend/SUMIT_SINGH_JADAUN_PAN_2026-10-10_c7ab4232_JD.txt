@@ -1,0 +1,39 @@
+At Palo Alto Networks®, we’re united by a shared mission—to protect our digital way of life. We thrive at the intersection of innovation and impact, solving real-world problems with cutting-edge technology and bold thinking. Here, everyone has a voice, and every idea counts. If you’re ready to do the most meaningful work of your career alongside people who are just as passionate as you are, you’re in the right place.
+
+Who We Are
+
+In order to be the cybersecurity partner of choice, we must trailblaze the path and shape the future of our industry. This is something our employees work at each day and is defined by our values: Disruption, Collaboration, Execution, Integrity, and Inclusion. We weave AI into the fabric of everything we do and use it to augment the impact every individual can have. If you are passionate about solving real-world problems and ideating beside the best and the brightest, we invite you to join us!
+
+We believe collaboration thrives in person. That’s why most of our teams work from the office full time, with flexibility when it’s needed. This model supports real-time problem-solving, stronger relationships, and the kind of precision that drives great outcomes.
+
+Job Summary
+
+We are seeking a highly motivated Senior Software Engineer to lead and grow development teams working on Prisma Cloud and Cortex Cloud, Palo Alto Networks’ leading platforms for cloud security and security operations. The engineer will be responsible for delivering highly scalable, reliable, and secure cloud-native services, collaborating with global teams to deliver next-generation cybersecurity solutions.
+
+Key Responsibilities
+
+Lead the design and implementation of significant features and components within complex backend systems and microservices for our Prisma Cloud & Cortex Cloud.
+Develop and implement high-quality, resilient, and scalable backend services primarily using Go, Java, and Python.
+Drive technical design discussions and decisions for specific features, ensuring solutions meet with overall architectural vision.
+Collaborate closely with cross-functional teams, including product management, frontend engineers, security researchers, and SRE, to define, design, and ship new features and platform enhancements.
+Contribute to defining and promoting best practices for backend development, testing, and deployment within the organization, particularly for cloud-native security solutions.
+Analyze and resolve complex technical challenges and production issues, ensuring the reliability and performance of Prisma Cloud & Cortex Cloud platforms.
+Actively participate in code reviews, design reviews, and architectural reviews.
+Stay up-to-date of emerging technologies and industry trends in cloud and backend development, evaluating and recommending their adoption where appropriate.
+
+Qualifications
+
+Required Qualifications
+
+Bachelor's or Master's degree in Computer Science, Engineering, or a related field, or equivalent practical experience.
+5+ years of experience in backend software development, with a strong track record of designing and delivering scalable, distributed systems.
+Expertise in Java, Go and/or Python for backend development.
+Strong understanding of software architecture principles, including microservices, event-driven architecture, and distributed systems patterns.
+Proven experience with system design, data modeling, and API design (RESTful, gRPC).
+
+Preferred Qualifications
+
+Experience in a cloud security context.
+Good understanding of cloud platforms (GCP, AWS, or Azure) and containerization technologies (Docker, Kubernetes), with an emphasis on security best practices within these environments.
+Experience with various database technologies (SQL and NoSQL), message queues (e.g., Kafka, RabbitMQ), and caching solutions.
+Excellent problem-solving, analytical, and troubleshooting skills.

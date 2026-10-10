@@ -1,0 +1,8 @@
+SAMPLE ONLY — Kubernetes Controller Developer (not a live opening)
+Develop controllers for infrastructure workloads and cloud integrations.
+Required skills:
+Go, Kubernetes controllers, Kubernetes operators, CRDs, controller-runtime, Kubebuilder, GCP, Kubernetes, Helm, Docker.
+Responsibilities:
+Design reconciliation and manage resource lifecycle and API contracts.
+Preferred skills:
+Python, Kafka, Ansible.

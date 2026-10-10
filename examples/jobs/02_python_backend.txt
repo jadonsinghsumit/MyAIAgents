@@ -1,0 +1,8 @@
+SAMPLE ONLY — Python Microservices Lead (not a live opening)
+Build backend APIs and reusable service components for infrastructure products.
+Required skills:
+Python, FastAPI, Pydantic, REST APIs, Docker, Kubernetes, Git, microservices, architecture.
+Responsibilities:
+Design API contracts and coordinate service integration with engineering teams.
+Preferred skills:
+Kafka, OpenAPI, Linux.

@@ -1,0 +1,8 @@
+SAMPLE ONLY — Workflow and Platform Engineer (not a live opening)
+Build orchestration services and secure event-driven integrations for a Kubernetes platform.
+Required skills:
+Go, Temporal, Kafka, gRPC, Kubernetes, Helm, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, Vault.
+Responsibilities:
+Develop workflow services and implement authentication and authorization boundaries.
+Preferred skills:
+Python, Ansible, SASL.
