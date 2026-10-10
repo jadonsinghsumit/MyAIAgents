@@ -3,7 +3,7 @@ Golang/Python Lead Developer | Cloud Native Services and Infrastructure Architec
 +91 8073420319 | sumitsinghjadaun@gmail.com | Bangalore, India | Open to roles across India | linkedin.com/in/sumit-singh-jadaun-06a14b23
 
 PROFESSIONAL SUMMARY
-Software engineering professional with 13+ years of experience spanning backend services, Python automation, and converged/hyperconverged infrastructure. Principal Software Engineer experience at Dell Technologies, with contributions to microservice architecture, API design, event-driven integration, and leadership of a six-engineer Python development team. Hands-on work with Go microservices, Kubernetes, Temporal, Kafka, REST APIs, and gRPC.
+Software engineering professional with 13+ years of experience spanning backend services, Python automation, and converged/hyperconverged infrastructure. Principal Software Engineer experience at Dell Technologies, with contributions to microservice architecture, API design, event-driven integration, and leadership of a Python development team of 8–10 engineers. Hands-on work with Go microservices, Kubernetes, Temporal, Kafka, REST APIs, and gRPC.
 
 TECHNICAL SKILLS
 Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authorization, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking
@@ -18,7 +18,7 @@ Contributed to microservice architecture discussions and evaluated Kafka client 
 Developed authorization APIs and audit-logging middleware with Protocol Buffers and Kafka producers using SASL authentication; implemented retry handling for Kafka and Vault connectivity.
 Guided technical design discussions, decomposed features into epics and stories, and coordinated with cross-functional teams to resolve engineering dependencies.
 Proposed approaches for a monitor-aggregator microservice and centralized shared component-health and pod-status logic in reusable Python framework classes.
-Led six engineers developing the Atlas Python automation framework; implemented logging and reporting enhancements and completed Python 3.6-to-3.14 and plugin migration.
+Led 8–10 engineers developing the Atlas Python automation framework; implemented logging and reporting enhancements and completed Python 3.6-to-3.14 and plugin migration.
 HCL Technologies | Technical Lead / Senior Software Engineer | May 2015–Oct 2019
 Riverbed client: Led 3–4 engineers developing Python automation for SteelFusion infrastructure; diagnosed automation-code issues across VMware, storage, and networking environments.
 Alcatel-Lucent client: Developed Python scripts for RF and modem-board automation, firmware initialization, and result analysis.
