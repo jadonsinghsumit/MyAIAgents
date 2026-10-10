@@ -3,7 +3,7 @@ Golang/Python Lead Developer | Cloud Native Services and Infrastructure Architec
 +91 8073420319 | sumitsinghjadaun@gmail.com | Bangalore, India | Open to roles across India | linkedin.com/in/sumit-singh-jadaun-06a14b23
 
 PROFESSIONAL SUMMARY
-Software engineering professional with 13+ years of experience spanning backend services, Python automation, and converged/hyperconverged infrastructure. Principal Software Engineer experience at Dell Technologies, with contributions to microservice architecture, API design, event-driven integration, and leadership of a Python development team of 8–10 engineers. Hands-on work with Go microservices, Kubernetes, Temporal, Kafka, REST APIs, and gRPC.
+Software engineering professional with 13+ years of experience spanning backend services in Golang and Python, infrastructure automation, and converged/hyperconverged infrastructure. Principal Software Engineer experience at Dell Technologies, with contributions to microservice architecture, API design, event-driven integration, and leadership of a Python development team of 8–10 engineers. Hands-on work with Go microservices, Kubernetes, Temporal, Kafka, REST APIs, and gRPC.
 
 TECHNICAL SKILLS
 Languages: Go (Golang), Python | Backend: Microservices, FastAPI, Pydantic, REST APIs, gRPC, Protocol Buffers, OpenAPI, Temporal | Platform: Kubernetes, Helm, Docker, Linux, Git | Messaging & Security: Apache Kafka, SASL authentication, HashiCorp Vault, authentication, authorization, JWT, OAuth 2.0, OpenID Connect, mTLS, RBAC, audit logging | Automation: Ansible, Python modules | Infrastructure: VMware ESXi, storage, SAN networking
