@@ -1,5 +1,7 @@
 # JDMatch Resume Agent
 
+New: [JobPilot India — LinkedIn/Naukri daily search and conditional applications](jobpilot/README.md). Prototype; live account validation and schedule activation remain pending.
+
 Start with the [step-by-step access guide](QUICKSTART.md) and [latest Cisco/PAN resumes](validation/LATEST.md).
 
 Accept a **pasted job description** or **public job link**, compare it with your resume, and export a tailored **one-page PDF**, editable Word document, and evidence report. Includes a local web interface and command-line workflow. Runs without an LLM API key.

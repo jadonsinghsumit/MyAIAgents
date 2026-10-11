@@ -4,3 +4,6 @@ __pycache__/
 .venv/
 outputs/
 *.pyc
+
+.jobpilot/
+jobpilot/settings.local.json

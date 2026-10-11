@@ -1,0 +1,11 @@
+{
+  "tested_at": "2026-10-11T06:53:46+05:30",
+  "mode": "prepare only; no applications submitted",
+  "authenticated": false,
+  "job_count": 0,
+  "portal_errors": {
+    "linkedin": "Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.linkedin.com/jobs/search/?keywords=Golang+Python+lead+backend+cloud+native&location=India&f_TPR=r86400\nCall log:\n  - navigating to \"https://www.linkedin.com/jobs/search/?keywords=Golang+Python+lead+backend+cloud+native&location=India&f_TPR=r86400\", waiting until \"domcontentloaded\"\n",
+    "naukri": "Error: Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://www.naukri.com/golang-python-lead-backend-cloud-native-jobs\nCall log:\n  - navigating to \"https://www.naukri.com/golang-python-lead-backend-cloud-native-jobs\", waiting until \"domcontentloaded\"\n"
+  },
+  "scope": "public unauthenticated access check; account-specific job discovery and real application flows are not validated"
+}

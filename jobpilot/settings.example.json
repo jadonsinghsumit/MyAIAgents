@@ -1,0 +1,22 @@
+{
+  "portals": ["linkedin", "naukri"],
+  "query": "Golang Python lead backend cloud native",
+  "location": "India",
+  "minimum_match": 70,
+  "maximum_match": 100,
+  "daily_limit": 10,
+  "max_jobs_per_portal": 30,
+  "allowed_locations": ["india", "bangalore", "bengaluru", "hyderabad", "pune", "chennai", "mumbai", "delhi", "gurgaon", "gurugram", "noida"],
+  "allow_unknown_location": false,
+  "profile_path": "resume/profile.json",
+  "private_dir": ".jobpilot",
+  "browser_executable": null,
+  "headless": false,
+  "answers": {
+    "First name": "Sumit",
+    "Last name": "Singh Jadaun",
+    "Full name": "Sumit Singh Jadaun",
+    "Email address": "sumitsinghjadaun@gmail.com",
+    "Mobile phone number": "+918073420319"
+  }
+}
